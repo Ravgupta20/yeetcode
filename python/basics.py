@@ -11,13 +11,13 @@ After completing this, move to easy.py for spaced repetition practice.
 # =============================================================================
 
 # Question 1: Create a list with numbers 1 through 5
-numList=[1,2,3,4,5]
+
 
 # Question 2: Create an empty list
-emptyList = list()
+
 
 # Question 3: Append an element to a list
-numList.append(7)
+
 
 # Question 4: Get the length of a list
 # Hint: len()
@@ -39,7 +39,7 @@ numList.append(7)
 
 # Question 10: Remove an element by value
 # Hint: my_list.remove(value)
-numList.remove(3)
+
 
 # =============================================================================
 # SECTION 2: DICTIONARIES
@@ -50,10 +50,10 @@ numList.remove(3)
 
 # Question 12: Create a dictionary with key-value pairs **
 # Example: {'name': 'Alice', 'age': 25}
-myDict = {'name': 'Alice', 'age': 25}
+
 
 # Question 13: Add a new key-value pair to a dictionary **
-myDict['city'] = 'NYC'
+
 
 # Question 14: Access a value by key
 # Hint: my_dict[key]
@@ -68,8 +68,7 @@ myDict['city'] = 'NYC'
 
 # Question 17: Delete a key from a dictionary
 # Hint: del my_dict[key]
-myDict['Address'] = "123 Main St"
-del myDict['Address']
+
 
 
 # Question 18: Get all keys as a list
